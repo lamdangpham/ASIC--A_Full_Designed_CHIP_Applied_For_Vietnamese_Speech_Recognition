@@ -1,8 +1,8 @@
-# ASIC Based Architecture of MFCC-HMM Framework Applied For Vietnamese Single Word Recognition
+# A Full-Desinged CHIP Applied For Vietnamese Single Word Recognition
 
 This work is for “Develop speech recognition IC in 130nm TSMC technology integrated in the handset to support the blind people”project funded by Vietnamese Government. 
 
-Well-designed chip namely iHearTech integrated Mel Frequency Cepstral Coefficients (MFCC) and Hidden Markov Model (HMM) algorithms were successfully fabricated and evaluated on our own embedded application board. 
+Well-designed chip namely iHearTech integrated Mel Frequency Cepstral Coefficients (MFCC) for feature extraction and Hidden Markov Model (HMM) algorithms for classification were successfully fabricated and evaluated on our own embedded application board. 
 
 # 01/ Hierarchy:
 
