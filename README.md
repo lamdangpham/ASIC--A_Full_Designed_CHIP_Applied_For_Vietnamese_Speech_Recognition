@@ -4,7 +4,7 @@ This work is for “Develop speech recognition IC in 130nm TSMC technology integ
 
 Well-designed chip namely iHearTech integrated Mel Frequency Cepstral Coefficients (MFCC) for feature extraction and Hidden Markov Model (HMM) algorithms for classification were successfully fabricated and evaluated on our own embedded application board. 
 
-# 01/ Hierarchy:
+# Project Hierarchy:
 
  - 01_Publication_Doc:
 
